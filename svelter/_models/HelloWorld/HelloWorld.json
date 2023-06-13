@@ -1,0 +1,1 @@
+[{"name":"author","type":"string","required":true},{"name":"title","type":"string","min-length":6,"required":true},{"name":"releaseDate","type":"date"}]

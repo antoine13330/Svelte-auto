@@ -1,0 +1,1 @@
+[{"name":"userName","type":"string","required":false},{"name":"userPassword","type":"string","special":"password","regex":"^[a-zA-Z0-9!@#$%^&*]{6,16}$","min-length":6,"required":true},{"name":"address","type":"string"}]

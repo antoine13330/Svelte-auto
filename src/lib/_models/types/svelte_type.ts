@@ -1,0 +1,1 @@
+export type Svelter_Type = 'string' | 'number' | 'file' | 'boolean' | 'date';
